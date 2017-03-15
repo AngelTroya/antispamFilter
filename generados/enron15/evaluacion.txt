@@ -1,0 +1,4 @@
+Correctos clasificados correctamente (Ham -> Ham):24.216666666666665
+Correctos clasificados incorrectamente (Ham -> Spam:)0.7833333333333333
+Incorrectos clasificados correctamente (Spam -> Ham:)15.4
+Incorrectos clasificados incorrectamente (Spam -> Spam:)59.6
